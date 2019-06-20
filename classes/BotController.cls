@@ -1,5 +1,5 @@
 public with sharing class BotController {
-//Comment made today - June 12
+//Comment June 20
     class HandlerMapping {
         
         public String handlerClassName;
@@ -11,7 +11,7 @@ public with sharing class BotController {
         }
 
     }
-//Another change is recorded here
+//Another change is here
     static List<HandlerMapping> handlerMappings;
     
     static {
