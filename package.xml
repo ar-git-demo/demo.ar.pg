@@ -213,8 +213,10 @@
         <members>SalesPro__c.ClickSales__c</members>
         <members>Test_Child_Object__c.Test_Field__c</members>
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
+        <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
+        <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <name>CustomField</name>
     </types>
@@ -230,7 +232,9 @@
         <members>SalesPro__c</members>
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
+        <members>Test_DL_object__c</members>
         <members>Test_Obj_June_20__c</members>
+        <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <name>CustomObject</name>
     </types>
@@ -249,7 +253,9 @@
         <members>Sample_Data_Import</members>
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
+        <members>Test_DL_object__c</members>
         <members>Test_Obj_June_20__c</members>
+        <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <name>CustomTab</name>
     </types>
@@ -377,7 +383,9 @@
         <members>Task-Task Layout</members>
         <members>Test_Child_Object__c-Test Child Object Layout</members>
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
+        <members>Test_DL_object__c-Test DL object Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
+        <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -442,7 +450,9 @@
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Test_Child_Object__c.All</members>
         <members>Test_DL_Obj__c.All</members>
+        <members>Test_DL_object__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
+        <members>Test_Object_June_20__c.All</members>
         <members>Test_Object__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
