@@ -1,5 +1,5 @@
 public class BotMessageButton {
-
+//Change Recorded
     @AuraEnabled public String label { get;set; }
     @AuraEnabled public String value { get;set; }
     

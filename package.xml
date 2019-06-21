@@ -156,11 +156,13 @@
         <members>Broker__c.Picture_IMG__c</members>
         <members>Broker__c.Picture__c</members>
         <members>Broker__c.Title__c</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>ClickSales__c.YesNo__c</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Contact.Location__c</members>
@@ -216,6 +218,8 @@
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
+        <members>Test_Obj_June_21__c.Test_Change__c</members>
+        <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <name>CustomField</name>
@@ -234,6 +238,7 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Obj_June_20__c</members>
+        <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <name>CustomObject</name>
@@ -255,6 +260,7 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Obj_June_20__c</members>
+        <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <name>CustomTab</name>
@@ -385,6 +391,7 @@
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
+        <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>User-User Layout</members>
@@ -452,6 +459,7 @@
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
+        <members>Test_Obj_June_21__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object__c.All</members>
         <members>User.ActiveUsers</members>
