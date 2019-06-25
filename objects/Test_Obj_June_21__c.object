@@ -53,28 +53,22 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Test_Change__c</fullName>
-        <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Test Change</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
-        <fullName>Test_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Test Field</label>
+        <precision>18</precision>
         <required>false</required>
+        <scale>0</scale>
         <trackTrending>false</trackTrending>
-        <type>Date</type>
+        <type>Currency</type>
     </fields>
-    <label>Test Object June 20</label>
+    <label>Test Obj June 21</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Test Object June 20 Name</label>
+        <label>Test Obj June 21 Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>tests</pluralLabel>
