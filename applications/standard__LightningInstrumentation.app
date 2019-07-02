@@ -7,5 +7,16 @@
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
     <tabs>ClickSales__c</tabs>
+    <tabs>Test_Object__c</tabs>
+    <tabs>Object_June_12__c</tabs>
+    <tabs>Test_Child_Object__c</tabs>
+    <tabs>June_18_Demo_P__c</tabs>
+    <tabs>June_18_Demo_C__c</tabs>
+    <tabs>Test_Obj_June_20__c</tabs>
+    <tabs>Test_DL_Obj__c</tabs>
+    <tabs>Test_Object_June_20__c</tabs>
+    <tabs>Test_DL_object__c</tabs>
+    <tabs>Test_Obj_June_21__c</tabs>
+    <tabs>Test_Obj_July__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

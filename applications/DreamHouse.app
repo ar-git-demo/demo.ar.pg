@@ -28,6 +28,9 @@
     <tabs>Bot_Command__c</tabs>
     <tabs>standard-File</tabs>
     <tabs>ClickSales__c</tabs>
+    <tabs>Test_Object__c</tabs>
+    <tabs>Object_June_12__c</tabs>
+    <tabs>Test_Child_Object__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>dreamhouseApplicationUtilityBar</utilityBar>
 </CustomApplication>

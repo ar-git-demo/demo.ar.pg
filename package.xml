@@ -61,6 +61,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Contact.Contact_Update</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
@@ -166,6 +170,7 @@
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Contact.Location__c</members>
+        <members>Demo_PG_Obj__c.Test_Demo_Field__c</members>
         <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
         <members>Dreamhouse_Settings__c.LIFX_Token__c</members>
         <members>Dreamhouse_Settings__c.LIFX_URL__c</members>
@@ -175,6 +180,8 @@
         <members>Dreamhouse_Settings__c.Slack_Property_Webhook_URL__c</members>
         <members>Favorite__c.Property__c</members>
         <members>Favorite__c.User__c</members>
+        <members>June_18_Demo_C__c.June_18_Demo_P__c</members>
+        <members>June_18_Demo_P__c.YesOrNo__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
         <members>Lead.Primary__c</members>
@@ -216,6 +223,7 @@
         <members>Test_Child_Object__c.Test_Field__c</members>
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
+        <members>Test_Obj_July__c.Sal__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
         <members>Test_Obj_June_21__c.Test_Change__c</members>
@@ -228,8 +236,11 @@
         <members>Bot_Command__c</members>
         <members>Broker__c</members>
         <members>ClickSales__c</members>
+        <members>Demo_PG_Obj__c</members>
         <members>Dreamhouse_Settings__c</members>
         <members>Favorite__c</members>
+        <members>June_18_Demo_C__c</members>
+        <members>June_18_Demo_P__c</members>
         <members>Object_June_12__c</members>
         <members>PropRelay__c</members>
         <members>Property__c</members>
@@ -237,6 +248,7 @@
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
+        <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
@@ -252,6 +264,8 @@
         <members>Heat_Map</members>
         <members>Heat_Map_Mock</members>
         <members>House_Explorer</members>
+        <members>June_18_Demo_C__c</members>
+        <members>June_18_Demo_P__c</members>
         <members>Object_June_12__c</members>
         <members>Property_Explorer1</members>
         <members>Property__c</members>
@@ -259,6 +273,7 @@
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
+        <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
@@ -354,6 +369,7 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>Demo_PG_Obj__c-Demo PG Obj Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
@@ -361,6 +377,9 @@
         <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>Individual-Individual Layout</members>
+        <members>June_18_Demo_C__c-June 18 Demo C Layout</members>
+        <members>June_18_Demo_P__c-June 18 Demo P Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -390,6 +409,7 @@
         <members>Test_Child_Object__c-Test Child Object Layout</members>
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
+        <members>Test_Obj_July__c-Test Obj July Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
@@ -433,6 +453,8 @@
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
         <members>Favorite__c.All</members>
+        <members>June_18_Demo_C__c.All</members>
+        <members>June_18_Demo_P__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
         <members>Lead.TodaysLeads</members>
@@ -458,6 +480,7 @@
         <members>Test_Child_Object__c.All</members>
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
+        <members>Test_Obj_July__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
         <members>Test_Obj_June_21__c.All</members>
         <members>Test_Object_June_20__c.All</members>
@@ -585,5 +608,9 @@
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>Contact.Contact_Update</members>
+        <name>WorkflowFieldUpdate</name>
     </types>
 </Package>
