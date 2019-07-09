@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata">
-    <active>true</active>
+    <active>false</active>
     <allowRecall>false</allowRecall>
     <allowedSubmitters>
         <type>owner</type>
     </allowedSubmitters>
     <approvalPageFields>
-        <field>Name</field>
+        <field>ContractNumber</field>
         <field>Owner</field>
     </approvalPageFields>
     <approvalStep>
@@ -22,20 +22,20 @@
     <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
     <entryCriteria>
         <criteriaItems>
-            <field>Contact.AccountName</field>
-            <operation>notEqual</operation>
-            <value>Ford</value>
+            <field>Contract.BillingCity</field>
+            <operation>contains</operation>
+            <value>Ch</value>
         </criteriaItems>
     </entryCriteria>
     <finalApprovalRecordLock>true</finalApprovalRecordLock>
     <finalRejectionRecordLock>false</finalRejectionRecordLock>
     <initialSubmissionActions>
         <action>
-            <name>Contact_Update</name>
+            <name>BC_Upd</name>
             <type>FieldUpdate</type>
         </action>
     </initialSubmissionActions>
-    <label>Contact Update</label>
+    <label>Contract Update</label>
     <recordEditability>AdminOnly</recordEditability>
     <showApprovalHistory>true</showApprovalHistory>
 </ApprovalProcess>
