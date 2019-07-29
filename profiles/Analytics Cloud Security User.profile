@@ -647,6 +647,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Demo_Object__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Obj_July__c.Sal__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -835,6 +840,9 @@
         <layout>Test_DL_object__c-Test DL object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Demo_Object__c-Test Demo Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Obj_July__c-Test Obj July Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -944,6 +952,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_DL_object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Demo_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

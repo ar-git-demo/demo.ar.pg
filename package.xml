@@ -235,6 +235,7 @@
         <members>Test_Child_Object__c.Test_Field__c</members>
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
+        <members>Test_Demo_Object__c.Test_Field__c</members>
         <members>Test_Obj_July__c.Sal__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
@@ -264,6 +265,7 @@
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
+        <members>Test_Demo_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
@@ -293,6 +295,7 @@
         <members>Test_Child_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
+        <members>Test_Demo_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
@@ -435,6 +438,7 @@
         <members>Test_Child_Object__c-Test Child Object Layout</members>
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
+        <members>Test_Demo_Object__c-Test Demo Object Layout</members>
         <members>Test_Obj_July__c-Test Obj July Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
@@ -510,6 +514,7 @@
         <members>Test_Child_Object__c.All</members>
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
+        <members>Test_Demo_Object__c.All</members>
         <members>Test_Obj_July__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
         <members>Test_Obj_June_21__c.All</members>
