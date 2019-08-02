@@ -62,6 +62,7 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Broker__c.Update_broker_details</members>
         <members>Contact.Contact_Update</members>
         <members>Contract.Contract_Update</members>
         <name>ApprovalProcess</name>
@@ -243,6 +244,8 @@
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object__c.Test_Field__c</members>
+        <members>Todays_Object__c.Test_Field_PG_Demo__c</members>
+        <members>Todays_Object__c.YoN__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -271,6 +274,7 @@
         <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
+        <members>Todays_Object__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -301,6 +305,7 @@
         <members>Test_Obj_June_21__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
+        <members>Todays_Object__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -444,6 +449,7 @@
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
+        <members>Todays_Object__c-Todays Object Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -520,6 +526,7 @@
         <members>Test_Obj_June_21__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object__c.All</members>
+        <members>Todays_Object__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
@@ -639,6 +646,7 @@
     </types>
     <types>
         <members>SFApex__c.CheckPD</members>
+        <members>Todays_Object__c.VR</members>
         <name>ValidationRule</name>
     </types>
     <types>
