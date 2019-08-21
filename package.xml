@@ -9,6 +9,7 @@
         <members>BotResponse</members>
         <members>BotTest</members>
         <members>EinsteinVisionController</members>
+        <members>HandlerHello</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -16,6 +17,7 @@
         <name>ApprovalProcess</name>
     </types>
     <types>
+        <members>Aug_21_Test_Object__c.TField__c</members>
         <members>Object_Aug_19__c.TField__c</members>
         <members>Object_Demo__c.Demo_Field_PR__c</members>
         <members>PG_Object_Test_Jul19__c.Test_Field__c</members>
@@ -27,6 +29,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Aug_21_Test_Object__c</members>
         <members>Object_Aug_19__c</members>
         <members>Object_Demo__c</members>
         <members>PG_Object_Test_Jul19__c</members>
@@ -36,6 +39,7 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Aug_21_Test_Object__c</members>
         <members>Object_Aug_19__c</members>
         <members>Object_Demo__c</members>
         <members>PG_Object_Test_Jul19__c</members>
@@ -53,6 +57,7 @@
         <name>FlowDefinition</name>
     </types>
     <types>
+        <members>Aug_21_Test_Object__c-Aug 21 Test Object Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -66,6 +71,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Aug_21_Test_Object__c.All</members>
         <members>Object_Aug_19__c.All</members>
         <members>Object_Demo__c.All</members>
         <members>PG_Object_Test_Jul19__c.All</members>

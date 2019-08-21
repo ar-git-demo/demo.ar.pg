@@ -28,7 +28,16 @@
         <apexClass>EinsteinVisionController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>HandlerHello</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Aug_21_Test_Object__c.TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Object_Aug_19__c.TField__c</field>
@@ -70,6 +79,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Aug_21_Test_Object__c-Aug 21 Test Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Lead-Lead %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -99,6 +111,10 @@
         <recordType>Parent_Object_Aug__c.RT_Tst_Aug</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>Aug_21_Test_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Object_Aug_19__c</tab>
         <visibility>DefaultOn</visibility>
