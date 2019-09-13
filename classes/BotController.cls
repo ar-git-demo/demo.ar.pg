@@ -1,7 +1,7 @@
 public with sharing class BotController {
-//Comment Changes Aug 02
+//Comment Changes Sep 13
     class HandlerMapping {
-        
+     
         public String handlerClassName;
         public Pattern utterancePattern;
 
@@ -11,7 +11,7 @@ public with sharing class BotController {
         }
 
     }
-//Another change made
+//Another change made today
     static List<HandlerMapping> handlerMappings;
     
     static {
@@ -56,8 +56,7 @@ public with sharing class BotController {
         } catch (Exception e) {
             System.debug(e);                
             return new BotResponse(new BotMessage('Bot', 'Oops, something went wrong invoking that command'));
-        }
-        
+        }   
     }
- //End of Line
+ //End
 }
