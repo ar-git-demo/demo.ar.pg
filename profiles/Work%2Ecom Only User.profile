@@ -677,6 +677,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Obj__c.TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_June_20__c.Test_Change__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -860,6 +865,9 @@
         <layout>Test_Obj_June_21__c-Test Obj June 21 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Obj__c-Test Obj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -980,6 +988,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Obj_June_21__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Obj__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>

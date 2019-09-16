@@ -242,6 +242,7 @@
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
         <members>Test_Obj_June_21__c.Test_Change__c</members>
+        <members>Test_Obj__c.TField__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object__c.Test_Field__c</members>
@@ -274,6 +275,7 @@
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
+        <members>Test_Obj__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
@@ -306,6 +308,7 @@
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
+        <members>Test_Obj__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
@@ -451,6 +454,7 @@
         <members>Test_Obj_July__c-Test Obj July Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
+        <members>Test_Obj__c-Test Obj Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Todays_Object__c-Todays Object Layout</members>
@@ -529,6 +533,7 @@
         <members>Test_Obj_July__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
         <members>Test_Obj_June_21__c.All</members>
+        <members>Test_Obj__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object__c.All</members>
         <members>Todays_Object__c.All</members>
