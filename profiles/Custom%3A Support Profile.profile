@@ -366,6 +366,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>CObject_Demo_Sep_25__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Case.AutorabitExtId__c</field>
         <readable>false</readable>
@@ -662,6 +667,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_OS_Object__c.TestField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Obj_July__c.Sal__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -695,6 +705,11 @@
         <field>Test_Object_June_20__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_sep24__c.Test_Sept_Obj__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Support%29 Layout</layout>
     </layoutAssignments>
@@ -712,6 +727,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Broker__c-Broker Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CObject_Demo_Sep_25__c-CObject Demo Sep 25 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Campaign-Campaign Layout</layout>
@@ -864,6 +882,9 @@
         <layout>Test_Demo_Object__c-Test Demo Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_OS_Object__c-Test OS Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Obj_July__c-Test Obj July Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -877,6 +898,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_sep24__c-Test Object sep24 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Sept_Obj__c-Test Sept Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
@@ -948,6 +975,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Broker__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>CObject_Demo_Sep_25__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -1024,6 +1055,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Demo_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_OS_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

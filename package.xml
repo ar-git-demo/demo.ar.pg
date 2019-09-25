@@ -62,6 +62,7 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Account.Acc_Update</members>
         <members>Broker__c.Update_broker_details</members>
         <members>Contact.Contact_Update</members>
         <members>Contract.Contract_Update</members>
@@ -170,6 +171,7 @@
         <members>Broker__c.Picture_IMG__c</members>
         <members>Broker__c.Picture__c</members>
         <members>Broker__c.Title__c</members>
+        <members>CObject_Demo_Sep_25__c.Test_Field__c</members>
         <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -239,6 +241,7 @@
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Demo_Object__c.Test_Field__c</members>
+        <members>Test_OS_Object__c.TestField__c</members>
         <members>Test_Obj_July__c.Sal__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
         <members>Test_Obj_June_20__c.Test_Field__c</members>
@@ -247,6 +250,7 @@
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object__c.Test_Field__c</members>
+        <members>Test_Object_sep24__c.Test_Sept_Obj__c</members>
         <members>Todays_Object__c.Test_Field_PG_Demo__c</members>
         <members>Todays_Object__c.YoN__c</members>
         <name>CustomField</name>
@@ -255,6 +259,7 @@
         <members>Bot_Command__c</members>
         <members>Bots__c</members>
         <members>Broker__c</members>
+        <members>CObject_Demo_Sep_25__c</members>
         <members>ClickSales__c</members>
         <members>Demo_PG_Obj__c</members>
         <members>Dreamhouse_Settings__c</members>
@@ -274,12 +279,14 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
+        <members>Test_OS_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
         <members>Test_Obj__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object__c</members>
+        <members>Test_Object_sep24__c</members>
         <members>Todays_Object__c</members>
         <name>CustomObject</name>
     </types>
@@ -287,6 +294,7 @@
         <members>Bot_Command__c</members>
         <members>Bots__c</members>
         <members>Broker__c</members>
+        <members>CObject_Demo_Sep_25__c</members>
         <members>ClickSales__c</members>
         <members>Command_Center</members>
         <members>Einstein_Vision</members>
@@ -308,6 +316,7 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
+        <members>Test_OS_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
@@ -366,6 +375,7 @@
         <members>Post_Price_Changes_to_Slack</members>
         <members>Price_Change_Push_Notification</members>
         <members>Test_Process</members>
+        <members>process_opp</members>
         <name>Flow</name>
     </types>
     <types>
@@ -375,6 +385,7 @@
         <members>Post_Price_Changes_to_Slack</members>
         <members>Price_Change_Push_Notification</members>
         <members>Test_Process</members>
+        <members>process_opp</members>
         <name>FlowDefinition</name>
     </types>
     <types>
@@ -391,6 +402,7 @@
         <members>Bot_Command__c-Bot Action Layout</members>
         <members>Bots__c-Bots Layout</members>
         <members>Broker__c-Broker Layout</members>
+        <members>CObject_Demo_Sep_25__c-CObject Demo Sep 25 Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -455,12 +467,15 @@
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
         <members>Test_Demo_Object__c-Test Demo Object Layout</members>
+        <members>Test_OS_Object__c-Test OS Object Layout</members>
         <members>Test_Obj_July__c-Test Obj July Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Obj__c-Test Obj Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
+        <members>Test_Object_sep24__c-Test Object sep24 Layout</members>
+        <members>Test_Sept_Obj__c-Test Sept Obj Layout</members>
         <members>Todays_Object__c-Todays Object Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -482,6 +497,7 @@
         <members>Bot_Command__c.All</members>
         <members>Bots__c.All</members>
         <members>Broker__c.All</members>
+        <members>CObject_Demo_Sep_25__c.All</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
         <members>Case.AllClosedCases</members>
@@ -535,6 +551,7 @@
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
         <members>Test_Demo_Object__c.All</members>
+        <members>Test_OS_Object__c.All</members>
         <members>Test_Obj_July__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
         <members>Test_Obj_June_21__c.All</members>
@@ -660,7 +677,9 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
         <members>SFApex__c.CheckPD</members>
+        <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>
         <name>ValidationRule</name>
     </types>

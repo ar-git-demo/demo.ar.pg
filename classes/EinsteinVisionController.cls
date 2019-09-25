@@ -1,5 +1,5 @@
 global with sharing class EinsteinVisionController {
-    
+    //Test Comment May 25
     public static String VISION_API = 'https://api.metamind.io/v1/vision';
     private static final Dreamhouse_Settings__c settings = Dreamhouse_Settings__c.getOrgDefaults();
 
@@ -9,7 +9,7 @@ global with sharing class EinsteinVisionController {
         @AuraEnabled
         public Double probability {get;set;}
     }
-
+    //Today's the day
     private static String getAccessToken() {
         if (settings == null || String.isEmpty(settings.Einstein_Vision_Email__c)) {
             throw new AuraHandledException('Cannot create Einstein Vision token: "Einstein Vision Email" not defined in Custom Settings');
@@ -25,7 +25,7 @@ global with sharing class EinsteinVisionController {
         keyContents = keyContents.replace('-----END RSA PRIVATE KEY-----', '');
         keyContents = keyContents.replace('\n', '');
 
-        // Get a new token - RV
+        // Get a new token
         JWT jwt = new JWT('RS256');
         jwt.pkcs8 = keyContents; // Comment this if you are using jwt.cert
         jwt.iss = 'developer.force.com';
