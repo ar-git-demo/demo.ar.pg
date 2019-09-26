@@ -110,16 +110,8 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>Partner Referral</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Phone Inquiry</fullName>
-                <default>false</default>
-            </values>
-            <values>
                 <fullName>Purchased List</fullName>
-                <default>false</default>
+                <default>true</default>
             </values>
             <values>
                 <fullName>SPD</fullName>
@@ -151,10 +143,6 @@
         </picklistValues>
         <picklistValues>
             <picklist>Name</picklist>
-            <values>
-                <fullName>Dr%2E</fullName>
-                <default>false</default>
-            </values>
             <values>
                 <fullName>Mr%2E</fullName>
                 <default>false</default>
