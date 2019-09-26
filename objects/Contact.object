@@ -111,6 +111,10 @@
         <picklistValues>
             <picklist>LeadSource</picklist>
             <values>
+                <fullName>New PL</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>Other</fullName>
                 <default>false</default>
             </values>
