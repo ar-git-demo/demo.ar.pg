@@ -111,43 +111,7 @@
         <picklistValues>
             <picklist>LeadSource</picklist>
             <values>
-                <fullName>New PL</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Newest PL</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Partner Referral</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Phone Inquiry</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Purchased List</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>SPD</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Test Added PL</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Test PV</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Web1</fullName>
+                <fullName>Deletion Test</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
