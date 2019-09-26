@@ -22,6 +22,11 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>LeadSource</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+    </fields>
+    <fields>
         <fullName>Level__c</fullName>
         <externalId>false</externalId>
         <label>Level</label>
