@@ -663,6 +663,10 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Account.TestRecordType</members>
+        <name>RecordType</name>
+    </types>
+    <types>
         <members>ApexDevNet</members>
         <members>Einstein_Vision</members>
         <members>LIFX</members>
