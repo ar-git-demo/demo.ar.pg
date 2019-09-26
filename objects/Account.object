@@ -395,7 +395,19 @@
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Partner Referral</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>Phone Inquiry</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Purchased List</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -404,7 +416,7 @@
             </values>
             <values>
                 <fullName>Web1</fullName>
-                <default>true</default>
+                <default>false</default>
             </values>
         </picklistValues>
         <picklistValues>
