@@ -664,6 +664,7 @@
     </types>
     <types>
         <members>Account.TestRecordType</members>
+        <members>Contact.Contact_RecordType_1</members>
         <name>RecordType</name>
     </types>
     <types>
