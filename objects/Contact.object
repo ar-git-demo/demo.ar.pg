@@ -111,54 +111,7 @@
         <picklistValues>
             <picklist>LeadSource</picklist>
             <values>
-                <fullName>Deletion Test</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>New PL</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Partner Referral</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Phone Inquiry</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>SPD</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Test Added PL</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Test PV</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Web1</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Level__c</picklist>
-            <values>
-                <fullName>Primary</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Secondary</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Tertiary</fullName>
+                <fullName>come new pl</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
