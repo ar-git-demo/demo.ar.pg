@@ -211,7 +211,6 @@
         <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.LeadSource</members>
-        <members>Contact.Level__c</members>
         <members>Contact.Location__c</members>
         <members>Demo_PG_Obj__c.Test_Demo_Field__c</members>
         <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
