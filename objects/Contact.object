@@ -119,10 +119,6 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>Test PV</fullName>
-                <default>true</default>
-            </values>
-            <values>
                 <fullName>come new pl</fullName>
                 <default>false</default>
             </values>
