@@ -705,6 +705,10 @@
         <name>Role</name>
     </types>
     <types>
+        <members>LeadSource</members>
+        <name>StandardValueSet</name>
+    </types>
+    <types>
         <members>countup7</members>
         <members>heatmap</members>
         <members>heatmapmock</members>
