@@ -477,6 +477,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_Sep_30_demo__c.New_TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Object_Sep_30_demo__c.Phone_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.CurrentGenerators__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -811,6 +821,9 @@
         <layout>Object_Demo_Sep18__c-Object Demo Sep18 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_Sep_30_demo__c-Object Sep 30 demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1035,6 +1048,15 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>Object_Sep_30_demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>PropRelay__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1234,6 +1256,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Object_Demo_Sep18__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Object_Sep_30_demo__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
