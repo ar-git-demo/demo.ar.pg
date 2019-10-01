@@ -477,6 +477,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_Demo_oct_1__c.TField_Oct_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_Sep_30_demo__c.New_TField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -821,6 +826,9 @@
         <layout>Object_Demo_Sep18__c-Object Demo Sep18 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_Demo_oct_1__c-Object Demo oct 1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_Sep_30_demo__c-Object Sep 30 demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1039,6 +1047,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_Demo_oct_1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Object_Sep_30_demo__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1247,6 +1264,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Object_Demo_Sep18__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Object_Demo_oct_1__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
