@@ -213,6 +213,7 @@
         <members>Contact.LeadSource</members>
         <members>Contact.Level_del__c</members>
         <members>Contact.Location__c</members>
+        <members>Contact.New_customer_picklist__c</members>
         <members>Demo_PG_Obj__c.Test_Demo_Field__c</members>
         <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
         <members>Dreamhouse_Settings__c.LIFX_Token__c</members>

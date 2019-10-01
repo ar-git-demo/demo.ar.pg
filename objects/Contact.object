@@ -64,6 +64,78 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Location</type>
     </fields>
+    <fields>
+        <fullName>New_customer_picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>New customer picklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>191</fullName>
+                    <default>true</default>
+                    <label>191</label>
+                </value>
+                <value>
+                    <fullName>2873</fullName>
+                    <default>false</default>
+                    <label>2873</label>
+                </value>
+                <value>
+                    <fullName>168</fullName>
+                    <default>false</default>
+                    <label>168</label>
+                </value>
+                <value>
+                    <fullName>9873</fullName>
+                    <default>false</default>
+                    <label>9873</label>
+                </value>
+                <value>
+                    <fullName>657</fullName>
+                    <default>false</default>
+                    <label>657</label>
+                </value>
+                <value>
+                    <fullName>5983</fullName>
+                    <default>false</default>
+                    <label>5983</label>
+                </value>
+                <value>
+                    <fullName>3</fullName>
+                    <default>false</default>
+                    <label>3</label>
+                </value>
+                <value>
+                    <fullName>97</fullName>
+                    <default>false</default>
+                    <label>97</label>
+                </value>
+                <value>
+                    <fullName>172</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>172</label>
+                </value>
+                <value>
+                    <fullName>2844</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>2844</label>
+                </value>
+                <value>
+                    <fullName>32</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>32</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <listViews>
         <fullName>AllContacts</fullName>
         <filterScope>Everything</filterScope>
@@ -128,6 +200,41 @@
             <values>
                 <fullName>Prof%2E</fullName>
                 <default>true</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>New_customer_picklist__c</picklist>
+            <values>
+                <fullName>168</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>191</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>2873</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>5983</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>657</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>97</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>9873</fullName>
+                <default>false</default>
             </values>
         </picklistValues>
     </recordTypes>
