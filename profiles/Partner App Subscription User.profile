@@ -492,6 +492,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Oct_2_Object__c.New_Field_Oct_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.CurrentGenerators__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -832,6 +837,9 @@
         <layout>Object_Sep_30_demo__c-Object Sep 30 demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Oct_2_Object__c-Oct 2 Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1011,6 +1019,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Object_Sep_30_demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Oct_2_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
