@@ -63,6 +63,7 @@
     </types>
     <types>
         <members>Account.Acc_Update</members>
+        <members>Asset.Asset_Update</members>
         <members>Broker__c.Update_broker_details</members>
         <members>Contact.Contact_Update</members>
         <members>Contract.Contract_Update</members>
@@ -274,6 +275,7 @@
         <members>SFApex__c.Test_Field__c</members>
         <members>SalesPro__c.ClickSales__c</members>
         <members>Test_Child_Object__c.Test_Field__c</members>
+        <members>Test_Custom_Object__c.New_Field__c</members>
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Demo_Object__c.Test_Field__c</members>
@@ -315,6 +317,7 @@
         <members>SFApex__c</members>
         <members>SalesPro__c</members>
         <members>Test_Child_Object__c</members>
+        <members>Test_Custom_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
@@ -354,6 +357,7 @@
         <members>SFApex__c</members>
         <members>Sample_Data_Import</members>
         <members>Test_Child_Object__c</members>
+        <members>Test_Custom_Object__c</members>
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
@@ -507,6 +511,7 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>Test_Child_Object__c-Test Child Object Layout</members>
+        <members>Test_Custom_Object__c-Test Custom Object Layout</members>
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
         <members>Test_Demo_Object__c-Test Demo Object Layout</members>
@@ -593,6 +598,7 @@
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Test_Child_Object__c.All</members>
+        <members>Test_Custom_Object__c.All</members>
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
         <members>Test_Demo_Object__c.All</members>
@@ -734,6 +740,7 @@
         <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
         <members>Object_Demo_oct_1__c.VRR</members>
         <members>SFApex__c.CheckPD</members>
+        <members>Test_Custom_Object__c.VR_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>
         <name>ValidationRule</name>
@@ -746,6 +753,7 @@
         <name>WebLink</name>
     </types>
     <types>
+        <members>Asset.FU_Asset</members>
         <members>Contact.Contact_Update</members>
         <members>Contract.BC_Upd</members>
         <members>WorkCoaching.TField</members>

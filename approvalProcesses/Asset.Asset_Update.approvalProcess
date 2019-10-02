@@ -5,7 +5,10 @@
     <allowedSubmitters>
         <type>owner</type>
     </allowedSubmitters>
-    <approvalPageFields/>
+    <approvalPageFields>
+        <field>Name</field>
+        <field>Owner</field>
+    </approvalPageFields>
     <approvalStep>
         <allowDelegate>false</allowDelegate>
         <assignedApprover>
@@ -19,20 +22,20 @@
     <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
     <entryCriteria>
         <criteriaItems>
-            <field>WorkCoaching.Name</field>
+            <field>Asset.Name</field>
             <operation>contains</operation>
-            <value>field</value>
+            <value>ds</value>
         </criteriaItems>
     </entryCriteria>
-    <finalApprovalActions>
-        <action>
-            <name>TField</name>
-            <type>FieldUpdate</type>
-        </action>
-    </finalApprovalActions>
     <finalApprovalRecordLock>true</finalApprovalRecordLock>
     <finalRejectionRecordLock>false</finalRejectionRecordLock>
-    <label>Test FUpdate</label>
+    <initialSubmissionActions>
+        <action>
+            <name>FU_Asset</name>
+            <type>FieldUpdate</type>
+        </action>
+    </initialSubmissionActions>
+    <label>Asset Update</label>
     <recordEditability>AdminOnly</recordEditability>
     <showApprovalHistory>true</showApprovalHistory>
 </ApprovalProcess>
