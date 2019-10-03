@@ -136,6 +136,16 @@
                     <label>1092</label>
                 </value>
                 <value>
+                    <fullName>100</fullName>
+                    <default>false</default>
+                    <label>100</label>
+                </value>
+                <value>
+                    <fullName>200</fullName>
+                    <default>false</default>
+                    <label>200</label>
+                </value>
+                <value>
                     <fullName>172</fullName>
                     <default>false</default>
                     <isActive>false</isActive>
@@ -146,6 +156,12 @@
                     <default>false</default>
                     <isActive>false</isActive>
                     <label>2844</label>
+                </value>
+                <value>
+                    <fullName>300</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>300</label>
                 </value>
                 <value>
                     <fullName>32</fullName>
@@ -254,6 +270,10 @@
         <picklistValues>
             <picklist>New_customer_picklist__c</picklist>
             <values>
+                <fullName>100</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>1092</fullName>
                 <default>false</default>
             </values>
@@ -264,6 +284,10 @@
             <values>
                 <fullName>191</fullName>
                 <default>true</default>
+            </values>
+            <values>
+                <fullName>200</fullName>
+                <default>false</default>
             </values>
             <values>
                 <fullName>2873</fullName>
