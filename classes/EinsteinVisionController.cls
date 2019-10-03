@@ -1,5 +1,5 @@
 global with sharing class EinsteinVisionController {
-    //Test Comment Sept
+    //Test Comment October 3
     public static String VISION_API = 'https://api.metamind.io/v1/vision';
     private static final Dreamhouse_Settings__c settings = Dreamhouse_Settings__c.getOrgDefaults();
 

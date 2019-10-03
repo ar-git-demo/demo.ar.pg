@@ -667,6 +667,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Change_Oct_3__c.Test_Checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Custom_Object__c.New_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -902,6 +907,9 @@
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Change_Oct_3__c-Test Change Oct 3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Custom_Object__c-Test Custom Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1052,6 +1060,10 @@
     <tabVisibilities>
         <tab>Sample_Data_Import</tab>
         <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Change_Oct_3__c</tab>
+        <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Custom_Object__c</tab>

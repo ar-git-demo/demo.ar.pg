@@ -4,7 +4,7 @@ public class BotItem {
     @AuraEnabled public String linkURL { get;set; }
     
     
-    //Test Change for Conflict
+    //Test Conflict Change
     public BotItem(String name) {
         this.name = name;
     }

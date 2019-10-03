@@ -274,6 +274,7 @@
         <members>Property__c.Zip__c</members>
         <members>SFApex__c.Test_Field__c</members>
         <members>SalesPro__c.ClickSales__c</members>
+        <members>Test_Change_Oct_3__c.Test_Checkbox__c</members>
         <members>Test_Child_Object__c.Test_Field__c</members>
         <members>Test_Custom_Object__c.New_Field__c</members>
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
@@ -316,6 +317,7 @@
         <members>Property__c</members>
         <members>SFApex__c</members>
         <members>SalesPro__c</members>
+        <members>Test_Change_Oct_3__c</members>
         <members>Test_Child_Object__c</members>
         <members>Test_Custom_Object__c</members>
         <members>Test_DL_Obj__c</members>
@@ -356,6 +358,7 @@
         <members>Property__c</members>
         <members>SFApex__c</members>
         <members>Sample_Data_Import</members>
+        <members>Test_Change_Oct_3__c</members>
         <members>Test_Child_Object__c</members>
         <members>Test_Custom_Object__c</members>
         <members>Test_DL_Obj__c</members>
@@ -510,6 +513,7 @@
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test_Change_Oct_3__c-Test Change Oct 3 Layout</members>
         <members>Test_Child_Object__c-Test Child Object Layout</members>
         <members>Test_Custom_Object__c-Test Custom Object Layout</members>
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
@@ -597,6 +601,7 @@
         <members>SFApex__c.All</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>Test_Change_Oct_3__c.All</members>
         <members>Test_Child_Object__c.All</members>
         <members>Test_Custom_Object__c.All</members>
         <members>Test_DL_Obj__c.All</members>
@@ -740,6 +745,7 @@
         <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
         <members>Object_Demo_oct_1__c.VRR</members>
         <members>SFApex__c.CheckPD</members>
+        <members>Test_Change_Oct_3__c.VR_Rule_1</members>
         <members>Test_Custom_Object__c.VR_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>
