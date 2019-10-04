@@ -667,6 +667,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>TObject_Demo_Oct_4__c.TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Change_Oct_3__c.Test_Checkbox__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -902,6 +907,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Solution-Solution Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TObject_Demo_Oct_4__c-TObject Demo Oct 4 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Task Layout</layout>
@@ -1143,6 +1151,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>TObject_Demo_Oct_4__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Test_Change_Oct_3__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1347,6 +1364,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Sample_Data_Import</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>TObject_Demo_Oct_4__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

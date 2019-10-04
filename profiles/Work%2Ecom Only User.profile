@@ -667,6 +667,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>TObject_Demo_Oct_4__c.TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Change_Oct_3__c.Test_Checkbox__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -904,6 +909,9 @@
         <layout>Solution-Solution Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TObject_Demo_Oct_4__c-TObject Demo Oct 4 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1059,6 +1067,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Sample_Data_Import</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>TObject_Demo_Oct_4__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
