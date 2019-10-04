@@ -472,6 +472,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_ClickTech__c.TField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_Demo_20__c.Test_Field_Sep_13__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -853,6 +858,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_ClickTech__c-Object_ClickTech Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_Demo_20__c-Object Demo 20 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1078,6 +1086,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>MNTon__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object_ClickTech__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -1362,6 +1379,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>MNTon__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Object_ClickTech__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
