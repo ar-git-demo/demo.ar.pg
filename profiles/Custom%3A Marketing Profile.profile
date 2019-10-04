@@ -401,6 +401,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>ClickTicks__c.Tfield_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Contact.AutorabitExtId__c</field>
         <readable>false</readable>
@@ -782,6 +787,9 @@
         <layout>ClickSales__c-ClickSales Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ClickTicks__c-ClickTicks Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>CommunityMemberLayout-Community Member Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1039,6 +1047,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>ClickSales__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>ClickTicks__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

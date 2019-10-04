@@ -211,6 +211,7 @@
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>ClickSales__c.YesNo__c</members>
+        <members>ClickTicks__c.Tfield_Demo__c</members>
         <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.LeadSource</members>
@@ -303,6 +304,7 @@
         <members>Broker__c</members>
         <members>CObject_Demo_Sep_25__c</members>
         <members>ClickSales__c</members>
+        <members>ClickTicks__c</members>
         <members>Demo_PG_Obj__c</members>
         <members>Dreamhouse_Settings__c</members>
         <members>Favorite__c</members>
@@ -344,6 +346,7 @@
         <members>Broker__c</members>
         <members>CObject_Demo_Sep_25__c</members>
         <members>ClickSales__c</members>
+        <members>ClickTicks__c</members>
         <members>Command_Center</members>
         <members>Einstein_Vision</members>
         <members>Heat_Map</members>
@@ -467,6 +470,7 @@
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
         <members>ClickSales__c-ClickSales Layout</members>
+        <members>ClickTicks__c-ClickTicks Layout</members>
         <members>CommunityMemberLayout-Community Member Layout</members>
         <members>ConsumptionRate-Consumption Rate Layout</members>
         <members>ConsumptionSchedule-Consumption Schedule Layout</members>
@@ -567,6 +571,7 @@
         <members>Case.MyCases</members>
         <members>Case.MyOpenCases</members>
         <members>ClickSales__c.All</members>
+        <members>ClickTicks__c.All</members>
         <members>Contact.AllContacts</members>
         <members>Contact.BirthdaysThisMonth</members>
         <members>Contact.MyContacts</members>
@@ -755,6 +760,7 @@
     </types>
     <types>
         <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
+        <members>ClickTicks__c.VR_Change</members>
         <members>Object_Demo_oct_1__c.VRR</members>
         <members>SFApex__c.CheckPD</members>
         <members>Test_Change_Oct_3__c.VR_Rule_1</members>
