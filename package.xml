@@ -239,6 +239,7 @@
         <members>Object_Demo_Sep18__c.Test_Field__c</members>
         <members>Object_Demo_oct_1__c.TField_Oct_1__c</members>
         <members>Object_June_12__c.Test_Field_June_12__c</members>
+        <members>Object_demo_4_Okt__c.Test_new_Field__c</members>
         <members>Oct_2_Object__c.New_Field_Oct_2__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
@@ -312,6 +313,7 @@
         <members>Object_Demo_Sep18__c</members>
         <members>Object_Demo_oct_1__c</members>
         <members>Object_June_12__c</members>
+        <members>Object_demo_4_Okt__c</members>
         <members>Oct_2_Object__c</members>
         <members>PropRelay__c</members>
         <members>Prop_object__c</members>
@@ -354,6 +356,7 @@
         <members>Object_Demo_Sep18__c</members>
         <members>Object_Demo_oct_1__c</members>
         <members>Object_June_12__c</members>
+        <members>Object_demo_4_Okt__c</members>
         <members>Oct_2_Object__c</members>
         <members>Prop_object__c</members>
         <members>Property_Explorer1</members>
@@ -495,6 +498,7 @@
         <members>Object_Demo_Sep18__c-Object Demo Sep18 Layout</members>
         <members>Object_Demo_oct_1__c-Object Demo oct 1 Layout</members>
         <members>Object_June_12__c-Object June 12 Layout</members>
+        <members>Object_demo_4_Okt__c-Object demo 4 Okt Layout</members>
         <members>Oct_2_Object__c-Oct 2 Object Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
@@ -588,6 +592,7 @@
         <members>Object_Demo_Sep18__c.All</members>
         <members>Object_Demo_oct_1__c.All</members>
         <members>Object_June_12__c.All</members>
+        <members>Object_demo_4_Okt__c.All</members>
         <members>Oct_2_Object__c.All</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>

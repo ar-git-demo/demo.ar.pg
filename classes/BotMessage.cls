@@ -1,5 +1,5 @@
 public virtual class BotMessage {
-//Comment June 20
+//Comment Oct 4
     @AuraEnabled public String author { get;set; }
     @AuraEnabled public String messageText { get;set; }
     @AuraEnabled public List<BotRecord> records { get;set; }
@@ -32,7 +32,7 @@ public virtual class BotMessage {
         this.messageText = messageText;
         this.buttons = buttons;
     }
-
+//Test Conflict Change
     public BotMessage(String author, String messageText, String imageURL) {
         this.author = author;
         this.messageText = messageText;
