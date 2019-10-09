@@ -752,6 +752,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Object_October_9__c.Test_Field_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_sep24__c.Test_Sept_Obj__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -972,6 +977,13 @@
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_October_9__c-Test Object October 9 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_October_9__c-Test Object October 9 Layout</layout>
+        <recordType>Test_Object_October_9__c.RType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_sep24__c-Test Object sep24 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1037,6 +1049,11 @@
         <apexPage>HeatMapMock</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Test_Object_October_9__c.RType1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Bot_Command__c</tab>
         <visibility>DefaultOn</visibility>
@@ -1187,6 +1204,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_June_20__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_October_9__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

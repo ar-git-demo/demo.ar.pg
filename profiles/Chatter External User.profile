@@ -605,6 +605,11 @@
         <field>Test_Obj_July__c.Sal__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Object_October_9__c.Test_Field_Demo__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -750,6 +755,13 @@
         <layout>Test_Obj_July__c-Test Obj July Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_October_9__c-Test Object October 9 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_October_9__c-Test Object October 9 Layout</layout>
+        <recordType>Test_Object_October_9__c.RType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -773,6 +785,11 @@
         <apexPage>HeatMapMock</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Test_Object_October_9__c.RType1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Bot_Command__c</tab>
         <visibility>Hidden</visibility>
@@ -827,6 +844,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Obj_July__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_October_9__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <userLicense>Chatter External</userLicense>

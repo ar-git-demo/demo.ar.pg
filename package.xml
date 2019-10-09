@@ -292,6 +292,7 @@
         <members>Test_Obj__c.TField__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
+        <members>Test_Object_October_9__c.Test_Field_Demo__c</members>
         <members>Test_Object__c.Test_Field__c</members>
         <members>Test_Object_sep24__c.Test_Sept_Obj__c</members>
         <members>Todays_Object__c.Test_Field_PG_Demo__c</members>
@@ -337,6 +338,7 @@
         <members>Test_Obj_June_21__c</members>
         <members>Test_Obj__c</members>
         <members>Test_Object_June_20__c</members>
+        <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
         <members>Test_Object_sep24__c</members>
         <members>Todays_Object__c</members>
@@ -382,6 +384,7 @@
         <members>Test_Obj_June_21__c</members>
         <members>Test_Obj__c</members>
         <members>Test_Object_June_20__c</members>
+        <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
         <name>CustomTab</name>
@@ -543,6 +546,7 @@
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Obj__c-Test Obj Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
+        <members>Test_Object_October_9__c-Test Object October 9 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
         <members>Test_Object_sep24__c-Test Object sep24 Layout</members>
         <members>Test_Sept_Obj__c-Test Sept Obj Layout</members>
@@ -635,6 +639,7 @@
         <members>Test_Obj_June_21__c.All</members>
         <members>Test_Obj__c.All</members>
         <members>Test_Object_June_20__c.All</members>
+        <members>Test_Object_October_9__c.All</members>
         <members>Test_Object__c.All</members>
         <members>Todays_Object__c.All</members>
         <members>User.ActiveUsers</members>
@@ -712,6 +717,7 @@
     <types>
         <members>Account.TestRecordType</members>
         <members>Contact.Contact_RecordType_1</members>
+        <members>Test_Object_October_9__c.RType1</members>
         <name>RecordType</name>
     </types>
     <types>
@@ -771,6 +777,7 @@
         <members>SFApex__c.CheckPD</members>
         <members>Test_Change_Oct_3__c.VR_Rule_1</members>
         <members>Test_Custom_Object__c.VR_Rule</members>
+        <members>Test_Object_October_9__c.Validation_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>
         <name>ValidationRule</name>
