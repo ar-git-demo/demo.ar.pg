@@ -1,10 +1,8 @@
 public class BotItem {
-//Comments made Today - Sep 18
+//Comments made Today - October 14
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    
-    
-    //Test
+    //Apex Comment
     public BotItem(String name) {
         this.name = name;
     }
