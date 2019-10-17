@@ -462,6 +462,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Oct17_Demo_Object__c.Tfield__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Oct_16_Test_Object__c.Test_Object_oct_16__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.CurrentGenerators__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -622,6 +632,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Commit__c.TField_DEmo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_DL_Obj__c.Test_Obj_June_20__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -663,6 +678,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Test_Object_June_20__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_oct_16__c.Salary__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
@@ -753,6 +773,16 @@
         <layout>Object_Sep_30_demo__c-Object Sep 30 demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Oct17_Demo_Object__c-Oct17 Demo Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Oct17_Demo_Object__c-Oct17 Demo Object Layout</layout>
+        <recordType>Oct17_Demo_Object__c.RT1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Oct_16_Test_Object__c-Oct 16 Test Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Opportunity %28Support%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -804,6 +834,9 @@
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Commit__c-Test Commit Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_DL_Obj__c-Test DL Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -819,10 +852,16 @@
         <layout>Test_Obj__c-Test Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_16_oct__c-Test Object 16 oct Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_oct_16__c-Test Object oct 16 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
@@ -884,6 +923,11 @@
         <apexPage>HeatMapMock</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Oct17_Demo_Object__c.RT1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Bot_Command__c</tab>
         <visibility>DefaultOn</visibility>
@@ -941,6 +985,14 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Oct17_Demo_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Oct_16_Test_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Prop_object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -954,6 +1006,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Sample_Data_Import</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Commit__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -977,11 +1033,19 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Test_Object_16_oct__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Test_Object_Demo__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_June_20__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_oct_16__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
