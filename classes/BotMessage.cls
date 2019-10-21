@@ -1,5 +1,5 @@
 public virtual class BotMessage {
-//Comment Oct 4 Demo
+//Comment Oct 21 Demo
     @AuraEnabled public String author { get;set; }
     @AuraEnabled public String messageText { get;set; }
     @AuraEnabled public List<BotRecord> records { get;set; }

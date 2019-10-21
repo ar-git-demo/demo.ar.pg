@@ -344,6 +344,7 @@
         <members>Test_Object__c</members>
         <members>Test_Object_sep24__c</members>
         <members>Todays_Object__c</members>
+        <members>TstObj__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -390,6 +391,7 @@
         <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
+        <members>TstObj__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -555,6 +557,7 @@
         <members>Test_Object_sep24__c-Test Object sep24 Layout</members>
         <members>Test_Sept_Obj__c-Test Sept Obj Layout</members>
         <members>Todays_Object__c-Todays Object Layout</members>
+        <members>TstObj__c-TstObj Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -647,6 +650,7 @@
         <members>Test_Object_October_9__c.All</members>
         <members>Test_Object__c.All</members>
         <members>Todays_Object__c.All</members>
+        <members>TstObj__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
