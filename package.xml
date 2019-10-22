@@ -276,6 +276,7 @@
         <members>Property__c.Title__c</members>
         <members>Property__c.Zip__c</members>
         <members>SFApex__c.Test_Field__c</members>
+        <members>STClock__c.ClickST__c</members>
         <members>SalesPro__c.ClickSales__c</members>
         <members>TObject_Demo_Oct_4__c.TField__c</members>
         <members>Test_Change_Oct_3__c.Test_Checkbox__c</members>
@@ -325,6 +326,7 @@
         <members>Prop_object__c</members>
         <members>Property__c</members>
         <members>SFApex__c</members>
+        <members>STClock__c</members>
         <members>SalesPro__c</members>
         <members>TObject_Demo_Oct_4__c</members>
         <members>Test_Change_Oct_3__c</members>
@@ -373,6 +375,7 @@
         <members>Property_Explorer1</members>
         <members>Property__c</members>
         <members>SFApex__c</members>
+        <members>STClock__c</members>
         <members>Sample_Data_Import</members>
         <members>TObject_Demo_Oct_4__c</members>
         <members>Test_Change_Oct_3__c</members>
@@ -532,6 +535,7 @@
         <members>Property__c-Property Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>SFApex__c-SFApex Layout</members>
+        <members>STClock__c-STClock Layout</members>
         <members>SalesPro__c-SalesPro Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
@@ -631,6 +635,7 @@
         <members>Prop_object__c.All</members>
         <members>Property__c.All</members>
         <members>SFApex__c.All</members>
+        <members>STClock__c.All</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>TObject_Demo_Oct_4__c.All</members>

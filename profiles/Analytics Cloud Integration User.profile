@@ -677,6 +677,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>STClock__c.ClickST__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SalesPro__c.ClickSales__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -926,6 +931,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>SFApex__c-SFApex Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>STClock__c-STClock Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>SalesPro__c-SalesPro Layout</layout>
@@ -1222,6 +1230,15 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>STClock__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>SalesPro__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1475,6 +1492,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>SFApex__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>STClock__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
