@@ -747,6 +747,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Object_Dec_2__c.Test_Field_Dec_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_Demo__c.StartDate__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -987,6 +992,9 @@
         <layout>Test_Obj__c-Test Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Dec_2__c-Test Object Dec 2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1184,6 +1192,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Obj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Dec_2__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

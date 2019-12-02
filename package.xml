@@ -291,6 +291,7 @@
         <members>Test_Obj_June_20__c.Test_Field__c</members>
         <members>Test_Obj_June_21__c.Test_Change__c</members>
         <members>Test_Obj__c.TField__c</members>
+        <members>Test_Object_Dec_2__c.Test_Field_Dec_2__c</members>
         <members>Test_Object_Demo__c.StartDate__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
@@ -340,6 +341,7 @@
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
         <members>Test_Obj__c</members>
+        <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Demo__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
@@ -389,6 +391,7 @@
         <members>Test_Obj_June_20__c</members>
         <members>Test_Obj_June_21__c</members>
         <members>Test_Obj__c</members>
+        <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Demo__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
@@ -554,6 +557,7 @@
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
         <members>Test_Obj_June_21__c-Test Obj June 21 Layout</members>
         <members>Test_Obj__c-Test Obj Layout</members>
+        <members>Test_Object_Dec_2__c-Test Object Dec 2 Layout</members>
         <members>Test_Object_Demo__c-Test Object Demo Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object_October_9__c-Test Object October 9 Layout</members>
@@ -650,6 +654,7 @@
         <members>Test_Obj_June_20__c.All</members>
         <members>Test_Obj_June_21__c.All</members>
         <members>Test_Obj__c.All</members>
+        <members>Test_Object_Dec_2__c.All</members>
         <members>Test_Object_Demo__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object_October_9__c.All</members>
@@ -662,6 +667,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Abc training</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
