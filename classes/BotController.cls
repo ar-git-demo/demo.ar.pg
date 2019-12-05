@@ -1,7 +1,7 @@
 public with sharing class BotController {
-//Comment Changes Sep 13
+//Comment Changes Oct 7
     class HandlerMapping {
-     
+     //Test Change
         public String handlerClassName;
         public Pattern utterancePattern;
 
@@ -11,7 +11,7 @@ public with sharing class BotController {
         }
 
     }
-//Another change made today
+//ClickSales
     static List<HandlerMapping> handlerMappings;
     
     static {
@@ -58,5 +58,5 @@ public with sharing class BotController {
             return new BotResponse(new BotMessage('Bot', 'Oops, something went wrong invoking that command'));
         }   
     }
- //End
+ //End Of Line
 }
