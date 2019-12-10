@@ -219,6 +219,8 @@
         <members>Contact.Location__c</members>
         <members>Contact.New_customer_picklist__c</members>
         <members>Demo_PG_Obj__c.Test_Demo_Field__c</members>
+        <members>Dep_LaC__c.T_Field__c</members>
+        <members>Dep_Obj__c.Tfield__c</members>
         <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
         <members>Dreamhouse_Settings__c.LIFX_Token__c</members>
         <members>Dreamhouse_Settings__c.LIFX_URL__c</members>
@@ -313,6 +315,8 @@
         <members>ClickSales__c</members>
         <members>ClickTicks__c</members>
         <members>Demo_PG_Obj__c</members>
+        <members>Dep_LaC__c</members>
+        <members>Dep_Obj__c</members>
         <members>Dreamhouse_Settings__c</members>
         <members>Favorite__c</members>
         <members>June_18_Demo_C__c</members>
@@ -362,6 +366,8 @@
         <members>ClickSales__c</members>
         <members>ClickTicks__c</members>
         <members>Command_Center</members>
+        <members>Dep_LaC__c</members>
+        <members>Dep_Obj__c</members>
         <members>Einstein_Vision</members>
         <members>Heat_Map</members>
         <members>Heat_Map_Mock</members>
@@ -503,6 +509,8 @@
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Demo_PG_Obj__c-Demo PG Obj Layout</members>
+        <members>Dep_LaC__c-Dep LaC Layout</members>
+        <members>Dep_Obj__c-Dep Obj Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
@@ -612,6 +620,8 @@
         <members>Contract.MyActivatedContracts</members>
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
+        <members>Dep_LaC__c.All</members>
+        <members>Dep_Obj__c.All</members>
         <members>Favorite__c.All</members>
         <members>June_18_Demo_C__c.All</members>
         <members>June_18_Demo_P__c.All</members>

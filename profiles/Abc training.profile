@@ -11,6 +11,16 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Dep_LaC__c.T_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Dep_Obj__c.Tfield__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_Dec_2__c.Test_Field_Dec_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -25,11 +35,25 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Dep_LaC__c-Dep LaC Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Dep_Obj__c-Dep Obj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Dec_2__c-Test Object Dec 2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Dec_5__c-Test Object Dec 5 Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Dep_LaC__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Dep_Obj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Dec_2__c</tab>
         <visibility>DefaultOn</visibility>
