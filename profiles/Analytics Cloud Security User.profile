@@ -487,6 +487,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_Dec10__c.Test_Field_Dec__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_Demo_20__c.Test_Field_Sep_13__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -907,6 +912,9 @@
         <layout>Object_ClickTech__c-Object_ClickTech Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_Dec10__c-Test Object Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_Demo_20__c-Object Demo 20 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1137,6 +1145,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Object_ClickTech__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Object_Dec10__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

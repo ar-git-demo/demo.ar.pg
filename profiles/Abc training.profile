@@ -21,6 +21,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Object_Dec10__c.Test_Field_Dec__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_Dec_2__c.Test_Field_Dec_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -41,6 +46,9 @@
         <layout>Dep_Obj__c-Dep Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Object_Dec10__c-Test Object Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Dec_2__c-Test Object Dec 2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -52,6 +60,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Dep_Obj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Object_Dec10__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
