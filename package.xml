@@ -3,6 +3,7 @@
     <version>45.0</version>
     <types>
         <members>BotController</members>
+        <members>BotField</members>
         <members>BotHandler</members>
         <members>BotItem</members>
         <members>BotMessage</members>
@@ -18,7 +19,10 @@
     </types>
     <types>
         <members>Aug_21_Test_Object__c.TField__c</members>
+        <members>Dec_11_Test_Object__c.Test_Field_Dec11__c</members>
+        <members>Dep_LaC__c.T_Field__c</members>
         <members>Object_Aug_19__c.TField__c</members>
+        <members>Object_Dec10__c.Test_Field_Dec__c</members>
         <members>Object_Demo__c.Demo_Field_PR__c</members>
         <members>PG_Object_Test_Jul19__c.Test_Field__c</members>
         <members>Parent_Object_Aug__c.Occupation__c</members>
@@ -30,7 +34,10 @@
     </types>
     <types>
         <members>Aug_21_Test_Object__c</members>
+        <members>Dec_11_Test_Object__c</members>
+        <members>Dep_LaC__c</members>
         <members>Object_Aug_19__c</members>
+        <members>Object_Dec10__c</members>
         <members>Object_Demo__c</members>
         <members>PG_Object_Test_Jul19__c</members>
         <members>Parent_Object_Aug__c</members>
@@ -40,7 +47,10 @@
     </types>
     <types>
         <members>Aug_21_Test_Object__c</members>
+        <members>Dec_11_Test_Object__c</members>
+        <members>Dep_LaC__c</members>
         <members>Object_Aug_19__c</members>
+        <members>Object_Dec10__c</members>
         <members>Object_Demo__c</members>
         <members>PG_Object_Test_Jul19__c</members>
         <members>Parent_Object_Aug__c</members>
@@ -58,11 +68,14 @@
     </types>
     <types>
         <members>Aug_21_Test_Object__c-Aug 21 Test Object Layout</members>
+        <members>Dec_11_Test_Object__c-Dec 11 Test Object Layout</members>
+        <members>Dep_LaC__c-Dep LaC Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Object_Aug_19__c-Object Aug 19 Layout</members>
+        <members>Object_Dec10__c-Test Object Demo Layout</members>
         <members>Object_Demo__c-Object Demo Layout</members>
         <members>PG_Object_Test_Jul19__c-PG Object Test Jul19 Layout</members>
         <members>Parent_Object_Aug__c-Parent Object Aug Layout</members>
@@ -72,7 +85,10 @@
     </types>
     <types>
         <members>Aug_21_Test_Object__c.All</members>
+        <members>Dec_11_Test_Object__c.All</members>
+        <members>Dep_LaC__c.All</members>
         <members>Object_Aug_19__c.All</members>
+        <members>Object_Dec10__c.All</members>
         <members>Object_Demo__c.All</members>
         <members>PG_Object_Test_Jul19__c.All</members>
         <members>Parent_Object_Aug__c.All</members>
@@ -81,6 +97,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Abc training</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -113,6 +130,8 @@
         <name>RecordType</name>
     </types>
     <types>
+        <members>Dec_11_Test_Object__c.VR1</members>
+        <members>Object_Dec10__c.VR1</members>
         <members>Object_Demo__c.VRR</members>
         <members>Parent_Object_Aug__c.CheckFl</members>
         <name>ValidationRule</name>
