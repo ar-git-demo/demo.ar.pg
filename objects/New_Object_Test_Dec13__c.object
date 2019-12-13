@@ -52,40 +52,18 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Field_New__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>Field New</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
-        <fullName>Test_Field_Dec11__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>Test Field Dec11</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <label>Dec 11 Test Object</label>
+    <label>New Object Test</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Dec 11 Test Object Name</label>
+        <label>New Object Test Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>decetest</pluralLabel>
+    <pluralLabel>news</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>VR1</fullName>
-        <active>true</active>
-        <errorConditionFormula>$Profile.Name = &quot;Admin&quot;</errorConditionFormula>
-        <errorMessage>Error Msg</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

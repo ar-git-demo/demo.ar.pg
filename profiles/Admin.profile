@@ -40,6 +40,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Dec_11_Test_Object__c.Field_New__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Dec_11_Test_Object__c.Test_Field_Dec11__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -106,6 +111,9 @@
         <layout>Lead-Lead Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>New_Object_Test_Dec13__c-New Object Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_Aug_19__c-Object Aug 19 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -155,6 +163,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Dep_LaC__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>New_Object_Test_Dec13__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -235,6 +252,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Dep_LaC__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>New_Object_Test_Dec13__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
