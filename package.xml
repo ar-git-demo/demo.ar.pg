@@ -31,6 +31,7 @@
         <members>Parent_Object_Aug__c.Test_Object_Aug_8__c</members>
         <members>Test_Object_Aug_19__c.TField__c</members>
         <members>Test_Object_Aug_8__c.Test_Field_Aug__c</members>
+        <members>Test_Object_Dec16__c.New_Field__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -45,6 +46,7 @@
         <members>Parent_Object_Aug__c</members>
         <members>Test_Object_Aug_19__c</members>
         <members>Test_Object_Aug_8__c</members>
+        <members>Test_Object_Dec16__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -59,6 +61,7 @@
         <members>Parent_Object_Aug__c</members>
         <members>Test_Object_Aug_19__c</members>
         <members>Test_Object_Aug_8__c</members>
+        <members>Test_Object_Dec16__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -85,6 +88,7 @@
         <members>Parent_Object_Aug__c-Parent Object Aug Layout</members>
         <members>Test_Object_Aug_19__c-Test Object Aug 19 Layout</members>
         <members>Test_Object_Aug_8__c-Test Object Aug 8 Layout</members>
+        <members>Test_Object_Dec16__c-Test Object Dec 16 Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -99,6 +103,7 @@
         <members>Parent_Object_Aug__c.All</members>
         <members>Test_Object_Aug_19__c.All</members>
         <members>Test_Object_Aug_8__c.All</members>
+        <members>Test_Object_Dec16__c.All</members>
         <name>ListView</name>
     </types>
     <types>
@@ -139,6 +144,7 @@
         <members>Object_Dec10__c.VR1</members>
         <members>Object_Demo__c.VRR</members>
         <members>Parent_Object_Aug__c.CheckFl</members>
+        <members>Test_Object_Dec16__c.VR</members>
         <name>ValidationRule</name>
     </types>
     <types>
