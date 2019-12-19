@@ -32,6 +32,7 @@
         <members>Test_Object_Aug_19__c.TField__c</members>
         <members>Test_Object_Aug_8__c.Test_Field_Aug__c</members>
         <members>Test_Object_Dec16__c.New_Field__c</members>
+        <members>Test_Object_Dec19__c.Test_Field__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -47,6 +48,7 @@
         <members>Test_Object_Aug_19__c</members>
         <members>Test_Object_Aug_8__c</members>
         <members>Test_Object_Dec16__c</members>
+        <members>Test_Object_Dec19__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -62,6 +64,7 @@
         <members>Test_Object_Aug_19__c</members>
         <members>Test_Object_Aug_8__c</members>
         <members>Test_Object_Dec16__c</members>
+        <members>Test_Object_Dec19__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -89,6 +92,7 @@
         <members>Test_Object_Aug_19__c-Test Object Aug 19 Layout</members>
         <members>Test_Object_Aug_8__c-Test Object Aug 8 Layout</members>
         <members>Test_Object_Dec16__c-Test Object Dec 16 Layout</members>
+        <members>Test_Object_Dec19__c-Test Object Dec19 Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -104,6 +108,7 @@
         <members>Test_Object_Aug_19__c.All</members>
         <members>Test_Object_Aug_8__c.All</members>
         <members>Test_Object_Dec16__c.All</members>
+        <members>Test_Object_Dec19__c.All</members>
         <name>ListView</name>
     </types>
     <types>
