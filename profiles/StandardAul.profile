@@ -113,6 +113,11 @@
         <field>Test_Object_Dec19__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_15__c.New_Field_Jan_15__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Aug_21_Test_Object__c-Aug 21 Test Object Layout</layout>
     </layoutAssignments>
@@ -161,6 +166,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Dec19__c-Test Object Dec19 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>
@@ -221,6 +229,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Dec19__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_15__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce Platform</userLicense>

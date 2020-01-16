@@ -113,6 +113,11 @@
         <field>Test_Object_Dec19__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_15__c.New_Field_Jan_15__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Aug_21_Test_Object__c-Aug 21 Test Object Layout</layout>
     </layoutAssignments>
@@ -161,6 +166,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Dec19__c-Test Object Dec19 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -288,6 +296,15 @@
         <object>Test_Object_Dec19__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Test_Object_Jan_15__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Parent_Object_Aug__c.RT_Tst_Aug</recordType>
@@ -347,6 +364,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Dec19__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_15__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
