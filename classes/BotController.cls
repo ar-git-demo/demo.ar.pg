@@ -1,7 +1,7 @@
 public with sharing class BotController {
-//Comment Changes Dec 10
+//Comment Changes Jan15
     class HandlerMapping {
-     //Test Change for Conflict
+     //Test Change - Conflict Today
         public String handlerClassName;
         public Pattern utterancePattern;
 
@@ -11,7 +11,7 @@ public with sharing class BotController {
         }
 
     }
-//Sales
+//Comment Change
     static List<HandlerMapping> handlerMappings;
     
     static {

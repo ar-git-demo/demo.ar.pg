@@ -21,6 +21,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>New_Obj_Jan_16__c.New_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_Dec10__c.Test_Field_Dec__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -39,11 +44,19 @@
         <field>Test_Object_Dec_5__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_15__c.New_Field_Jan_15__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Dep_Obj__c-Dep Obj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>New_Obj_Jan_16__c-New Obj Jan 16 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Object_Dec10__c-Test Object Demo Layout</layout>
@@ -54,12 +67,19 @@
     <layoutAssignments>
         <layout>Test_Object_Dec_5__c-Test Object Dec 5 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
+    </layoutAssignments>
     <tabVisibilities>
         <tab>Dep_LaC__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Dep_Obj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>New_Obj_Jan_16__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -72,6 +92,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Dec_5__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_15__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Force.com - Free</userLicense>

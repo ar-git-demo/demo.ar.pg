@@ -482,6 +482,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>New_Obj_Jan_16__c.New_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_ClickTech__c.TField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -782,6 +787,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Object_Jan_15__c.New_Field_Jan_15__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_June_20__c.Test_Change__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -909,6 +919,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>New_Obj_Jan_16__c-New Obj Jan 16 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object_ClickTech__c-Object_ClickTech Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1033,6 +1046,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
@@ -1180,6 +1196,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>New_Obj_Jan_16__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Object_ClickTech__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -1289,6 +1309,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_15__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

@@ -238,6 +238,7 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>MNTon__c.SFApex__c</members>
+        <members>New_Obj_Jan_16__c.New_Field__c</members>
         <members>Object_ClickTech__c.TField__c</members>
         <members>Object_Dec10__c.Test_Field_Dec__c</members>
         <members>Object_Demo_20__c.Test_Field_Sep_13__c</members>
@@ -298,6 +299,7 @@
         <members>Test_Object_Dec_5__c.Test_Custom_Field__c</members>
         <members>Test_Object_Dec_5__c.Test_Field__c</members>
         <members>Test_Object_Demo__c.StartDate__c</members>
+        <members>Test_Object_Jan_15__c.New_Field_Jan_15__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object_October_9__c.Test_Field_Demo__c</members>
@@ -323,6 +325,7 @@
         <members>June_18_Demo_C__c</members>
         <members>June_18_Demo_P__c</members>
         <members>MNTon__c</members>
+        <members>New_Obj_Jan_16__c</members>
         <members>Object_ClickTech__c</members>
         <members>Object_Dec10__c</members>
         <members>Object_Demo_20__c</members>
@@ -352,6 +355,7 @@
         <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Dec_5__c</members>
         <members>Test_Object_Demo__c</members>
+        <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
@@ -377,6 +381,7 @@
         <members>June_18_Demo_C__c</members>
         <members>June_18_Demo_P__c</members>
         <members>MNTon__c</members>
+        <members>New_Obj_Jan_16__c</members>
         <members>Object_ClickTech__c</members>
         <members>Object_Dec10__c</members>
         <members>Object_Demo_20__c</members>
@@ -406,6 +411,7 @@
         <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Dec_5__c</members>
         <members>Test_Object_Demo__c</members>
+        <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
@@ -530,6 +536,7 @@
         <members>Lead-Lead Layout</members>
         <members>MNTon__c-MNTon Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>New_Obj_Jan_16__c-New Obj Jan 16 Layout</members>
         <members>Object_ClickTech__c-Object_ClickTech Layout</members>
         <members>Object_Dec10__c-Test Object Demo Layout</members>
         <members>Object_Demo_20__c-Object Demo 20 Layout</members>
@@ -576,6 +583,7 @@
         <members>Test_Object_Dec_2__c-Test Object Dec 2 Layout</members>
         <members>Test_Object_Dec_5__c-Test Object Dec 5 Layout</members>
         <members>Test_Object_Demo__c-Test Object Demo Layout</members>
+        <members>Test_Object_Jan_15__c-Test Object Jan 15 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object_October_9__c-Test Object October 9 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
@@ -635,6 +643,7 @@
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
         <members>MNTon__c.All</members>
+        <members>New_Obj_Jan_16__c.All</members>
         <members>Object_ClickTech__c.All</members>
         <members>Object_Dec10__c.All</members>
         <members>Object_Demo_20__c.All</members>
@@ -677,6 +686,7 @@
         <members>Test_Object_Dec_2__c.All</members>
         <members>Test_Object_Dec_5__c.All</members>
         <members>Test_Object_Demo__c.All</members>
+        <members>Test_Object_Jan_15__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object_October_9__c.All</members>
         <members>Test_Object__c.All</members>
@@ -820,6 +830,7 @@
         <members>Test_Change_Oct_3__c.VR_Rule_1</members>
         <members>Test_Custom_Object__c.VR_Rule</members>
         <members>Test_Object_Demo__c.VR</members>
+        <members>Test_Object_Jan_15__c.Test_VR</members>
         <members>Test_Object_October_9__c.Validation_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>
