@@ -52,42 +52,18 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>New_Field__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>New Field</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
-        <fullName>Target_Salary__c</fullName>
-        <externalId>false</externalId>
-        <label>Target Salary</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
-    <label>New Obj Jan 16</label>
+    <label>Test Object Jan 17</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>New Obj Jan 16 Name</label>
+        <label>Test Object Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>objs</pluralLabel>
+    <pluralLabel>jantest</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>Test_Rule</fullName>
-        <active>true</active>
-        <errorConditionFormula>$Profile.Name = &quot;Admin&quot;</errorConditionFormula>
-        <errorMessage>Error Msg</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

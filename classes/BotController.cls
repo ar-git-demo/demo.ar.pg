@@ -50,6 +50,7 @@ public with sharing class BotController {
                     return h.handle(utterance, params, session, fileName, fileContent);
                 }
             }
+            //NL Comment Change made to class
             
             return new BotResponse(new BotMessage('Bot', 'I don\'t know how to answer that'));
             
@@ -58,5 +59,5 @@ public with sharing class BotController {
             return new BotResponse(new BotMessage('Bot', 'Oops, something went wrong invoking that command'));
         }   
     }
- //End Of Line
+ //EOL
 }

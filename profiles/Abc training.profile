@@ -8,6 +8,10 @@
         <apexClass>BotField</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>BotItem</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -22,6 +26,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>New_Obj_Jan_16__c.New_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>New_Obj_Jan_16__c.Target_Salary__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -68,6 +77,9 @@
         <layout>Test_Object_Dec_5__c-Test Object Dec 5 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Jan17__c-Test Object Jan 17 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
@@ -92,6 +104,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Dec_5__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan17__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

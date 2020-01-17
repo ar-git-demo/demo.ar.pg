@@ -487,6 +487,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>New_Obj_Jan_16__c.Target_Salary__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Object_ClickTech__c.TField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1048,6 +1053,9 @@
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Jan17__c-Test Object Jan 17 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1273,6 +1281,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan17__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

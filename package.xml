@@ -239,6 +239,7 @@
         <members>Lead.SICCode__c</members>
         <members>MNTon__c.SFApex__c</members>
         <members>New_Obj_Jan_16__c.New_Field__c</members>
+        <members>New_Obj_Jan_16__c.Target_Salary__c</members>
         <members>Object_ClickTech__c.TField__c</members>
         <members>Object_Dec10__c.Test_Field_Dec__c</members>
         <members>Object_Demo_20__c.Test_Field_Sep_13__c</members>
@@ -355,6 +356,7 @@
         <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Dec_5__c</members>
         <members>Test_Object_Demo__c</members>
+        <members>Test_Object_Jan17__c</members>
         <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
@@ -411,6 +413,7 @@
         <members>Test_Object_Dec_2__c</members>
         <members>Test_Object_Dec_5__c</members>
         <members>Test_Object_Demo__c</members>
+        <members>Test_Object_Jan17__c</members>
         <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
@@ -583,6 +586,7 @@
         <members>Test_Object_Dec_2__c-Test Object Dec 2 Layout</members>
         <members>Test_Object_Dec_5__c-Test Object Dec 5 Layout</members>
         <members>Test_Object_Demo__c-Test Object Demo Layout</members>
+        <members>Test_Object_Jan17__c-Test Object Jan 17 Layout</members>
         <members>Test_Object_Jan_15__c-Test Object Jan 15 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object_October_9__c-Test Object October 9 Layout</members>
@@ -686,6 +690,7 @@
         <members>Test_Object_Dec_2__c.All</members>
         <members>Test_Object_Dec_5__c.All</members>
         <members>Test_Object_Demo__c.All</members>
+        <members>Test_Object_Jan17__c.All</members>
         <members>Test_Object_Jan_15__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object_October_9__c.All</members>
@@ -823,6 +828,7 @@
     <types>
         <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
         <members>ClickTicks__c.VR_Change</members>
+        <members>New_Obj_Jan_16__c.Test_Rule</members>
         <members>Object_ClickTech__c.VRV</members>
         <members>Object_Dec10__c.VR1</members>
         <members>Object_Demo_oct_1__c.VRR</members>
