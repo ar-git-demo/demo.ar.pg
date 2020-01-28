@@ -58,6 +58,11 @@
         <field>Test_Object_Jan_15__c.New_Field_Jan_15__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_28__c.Field_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
@@ -81,6 +86,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Jan_15__c-Test Object Jan 15 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_28__c-Test Object Jan 28 Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Dep_LaC__c</tab>
@@ -112,6 +120,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Jan_15__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_28__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Force.com - Free</userLicense>

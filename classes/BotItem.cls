@@ -1,8 +1,8 @@
 public class BotItem {
-//Comments made Today - October 15
+//Comments made Today - Jan 28
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    //Test CoRe Change
+    //Test Change
     public BotItem(String name) {
         this.name = name;
     }
