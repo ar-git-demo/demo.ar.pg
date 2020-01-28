@@ -284,6 +284,7 @@
         <members>STClock__c.ClickST__c</members>
         <members>SalesPro__c.ClickSales__c</members>
         <members>TObject_Demo_Oct_4__c.TField__c</members>
+        <members>TObject_Jan_28__c.T_Field__c</members>
         <members>Test_Change_Oct_3__c.Test_Checkbox__c</members>
         <members>Test_Child_Object__c.Test_Field__c</members>
         <members>Test_Custom_Object__c.New_Field__c</members>
@@ -302,6 +303,7 @@
         <members>Test_Object_Demo__c.StartDate__c</members>
         <members>Test_Object_Jan_15__c.New_Field_Jan_15__c</members>
         <members>Test_Object_Jan_28__c.Field_Test__c</members>
+        <members>Test_Object_Jan_28_demo__c.Test_Field__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
         <members>Test_Object_October_9__c.Test_Field_Demo__c</members>
@@ -343,6 +345,7 @@
         <members>STClock__c</members>
         <members>SalesPro__c</members>
         <members>TObject_Demo_Oct_4__c</members>
+        <members>TObject_Jan_28__c</members>
         <members>Test_Change_Oct_3__c</members>
         <members>Test_Child_Object__c</members>
         <members>Test_Custom_Object__c</members>
@@ -360,6 +363,7 @@
         <members>Test_Object_Jan17__c</members>
         <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_Jan_28__c</members>
+        <members>Test_Object_Jan_28_demo__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
@@ -401,6 +405,7 @@
         <members>STClock__c</members>
         <members>Sample_Data_Import</members>
         <members>TObject_Demo_Oct_4__c</members>
+        <members>TObject_Jan_28__c</members>
         <members>Test_Change_Oct_3__c</members>
         <members>Test_Child_Object__c</members>
         <members>Test_Custom_Object__c</members>
@@ -418,6 +423,7 @@
         <members>Test_Object_Jan17__c</members>
         <members>Test_Object_Jan_15__c</members>
         <members>Test_Object_Jan_28__c</members>
+        <members>Test_Object_Jan_28_demo__c</members>
         <members>Test_Object_June_20__c</members>
         <members>Test_Object_October_9__c</members>
         <members>Test_Object__c</members>
@@ -469,6 +475,7 @@
     </types>
     <types>
         <members>Advertise_New_Property</members>
+        <members>Case_Updates</members>
         <members>Opp_Process</members>
         <members>Opp_Updates</members>
         <members>Opportunity_Status_Change</members>
@@ -480,6 +487,7 @@
     </types>
     <types>
         <members>Advertise_New_Property</members>
+        <members>Case_Updates</members>
         <members>Opp_Process</members>
         <members>Opp_Updates</members>
         <members>Opportunity_Status_Change</members>
@@ -574,6 +582,7 @@
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Solution-Solution Layout</members>
         <members>TObject_Demo_Oct_4__c-TObject Demo Oct 4 Layout</members>
+        <members>TObject_Jan_28__c-TObject Jan 28 Layout</members>
         <members>Task-Task Layout</members>
         <members>Test_Change_Oct_3__c-Test Change Oct 3 Layout</members>
         <members>Test_Child_Object__c-Test Child Object Layout</members>
@@ -592,6 +601,7 @@
         <members>Test_Object_Jan17__c-Test Object Jan 17 Layout</members>
         <members>Test_Object_Jan_15__c-Test Object Jan 15 Layout</members>
         <members>Test_Object_Jan_28__c-Test Object Jan 28 Layout</members>
+        <members>Test_Object_Jan_28_demo__c-Test Object Jan 28 Layout</members>
         <members>Test_Object_June_20__c-Test Object June 20 Layout</members>
         <members>Test_Object_October_9__c-Test Object October 9 Layout</members>
         <members>Test_Object__c-Test Object Layout</members>
@@ -680,6 +690,7 @@
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>TObject_Demo_Oct_4__c.All</members>
+        <members>TObject_Jan_28__c.All</members>
         <members>Test_Change_Oct_3__c.All</members>
         <members>Test_Child_Object__c.All</members>
         <members>Test_Custom_Object__c.All</members>
@@ -697,6 +708,7 @@
         <members>Test_Object_Jan17__c.All</members>
         <members>Test_Object_Jan_15__c.All</members>
         <members>Test_Object_Jan_28__c.All</members>
+        <members>Test_Object_Jan_28_demo__c.All</members>
         <members>Test_Object_June_20__c.All</members>
         <members>Test_Object_October_9__c.All</members>
         <members>Test_Object__c.All</members>
@@ -842,6 +854,7 @@
         <members>Test_Custom_Object__c.VR_Rule</members>
         <members>Test_Object_Demo__c.VR</members>
         <members>Test_Object_Jan_15__c.Test_VR</members>
+        <members>Test_Object_Jan_28_demo__c.VR_Test</members>
         <members>Test_Object_October_9__c.Validation_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>

@@ -717,6 +717,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>TObject_Jan_28__c.T_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Change_Oct_3__c.Test_Checkbox__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -798,6 +803,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Test_Object_Jan_28__c.Field_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_28_demo__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1016,6 +1026,9 @@
         <layout>TObject_Demo_Oct_4__c-TObject Demo Oct 4 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TObject_Jan_28__c-TObject Jan 28 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1065,6 +1078,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Jan_28__c-Test Object Jan 28 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_28_demo__c-Test Object Jan 28 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_June_20__c-Test Object June 20 Layout</layout>
@@ -1240,6 +1256,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>TObject_Jan_28__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Test_Change_Oct_3__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -1301,6 +1321,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Jan_28__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_28_demo__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>

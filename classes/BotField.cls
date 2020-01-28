@@ -1,14 +1,14 @@
 public class BotField {
-//Change Made today for the demo
+//Change Made today
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    
+    //ete
     public BotField(String name, String value) {
         this.name = name;
         this.value = value;
     }
-    //Comment Change Made 
+    //Change Made 
     public BotField(String name, String value, string linkURL) {
         this.name = name;
         this.value = value;
