@@ -9,6 +9,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>BotHandler</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>BotItem</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -73,6 +77,11 @@
         <field>Test_Object_Jan_28_demo__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_29__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
@@ -105,6 +114,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Jan_28_demo__c-Test Object Jan 28 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object_Jan_29__c-Test Object Jan 29 Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Dep_LaC__c</tab>
@@ -148,6 +160,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Jan_28_demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Jan_29__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Force.com - Free</userLicense>
