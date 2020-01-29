@@ -49,6 +49,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Jan_Object__c.NewField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_Dec_2__c.Test_Field_Dec_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -79,6 +84,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Object_Jan_29__c.Test_Field_Checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object_Jan_29__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -96,6 +106,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TObject_Jan_28__c-TObject Jan 28 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Jan_Object__c-Test Jan Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Dec_2__c-Test Object Dec 2 Layout</layout>
@@ -136,6 +149,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>TObject_Jan_28__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Jan_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

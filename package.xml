@@ -291,6 +291,7 @@
         <members>Test_DL_Obj__c.Test_Obj_June_20__c</members>
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Demo_Object__c.Test_Field__c</members>
+        <members>Test_Jan_Object__c.NewField__c</members>
         <members>Test_OS_Object__c.TestField__c</members>
         <members>Test_Obj_July__c.Sal__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
@@ -304,6 +305,7 @@
         <members>Test_Object_Jan_15__c.New_Field_Jan_15__c</members>
         <members>Test_Object_Jan_28__c.Field_Test__c</members>
         <members>Test_Object_Jan_28_demo__c.Test_Field__c</members>
+        <members>Test_Object_Jan_29__c.Test_Field_Checkbox__c</members>
         <members>Test_Object_Jan_29__c.Test_Field__c</members>
         <members>Test_Object_June_20__c.Test_Change__c</members>
         <members>Test_Object_June_20__c.Test_Field__c</members>
@@ -353,6 +355,7 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
+        <members>Test_Jan_Object__c</members>
         <members>Test_OS_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
@@ -415,6 +418,7 @@
         <members>Test_DL_Obj__c</members>
         <members>Test_DL_object__c</members>
         <members>Test_Demo_Object__c</members>
+        <members>Test_Jan_Object__c</members>
         <members>Test_OS_Object__c</members>
         <members>Test_Obj_July__c</members>
         <members>Test_Obj_June_20__c</members>
@@ -594,6 +598,7 @@
         <members>Test_DL_Obj__c-Test DL Obj Layout</members>
         <members>Test_DL_object__c-Test DL object Layout</members>
         <members>Test_Demo_Object__c-Test Demo Object Layout</members>
+        <members>Test_Jan_Object__c-Test Jan Object Layout</members>
         <members>Test_OS_Object__c-Test OS Object Layout</members>
         <members>Test_Obj_July__c-Test Obj July Layout</members>
         <members>Test_Obj_June_20__c-Test Obj June 20 Layout</members>
@@ -703,6 +708,7 @@
         <members>Test_DL_Obj__c.All</members>
         <members>Test_DL_object__c.All</members>
         <members>Test_Demo_Object__c.All</members>
+        <members>Test_Jan_Object__c.All</members>
         <members>Test_OS_Object__c.All</members>
         <members>Test_Obj_July__c.All</members>
         <members>Test_Obj_June_20__c.All</members>
@@ -862,6 +868,7 @@
         <members>Test_Object_Demo__c.VR</members>
         <members>Test_Object_Jan_15__c.Test_VR</members>
         <members>Test_Object_Jan_28_demo__c.VR_Test</members>
+        <members>Test_Object_Jan_29__c.VR_Rule_1</members>
         <members>Test_Object_October_9__c.Validation_Rule</members>
         <members>Test_Object_sep24__c.vrv</members>
         <members>Todays_Object__c.VR</members>

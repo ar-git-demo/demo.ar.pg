@@ -12,11 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test_Field__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Test_Field_Checkbox__c</field>
+                <field>NewField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

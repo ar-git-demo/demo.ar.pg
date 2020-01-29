@@ -747,6 +747,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Jan_Object__c.NewField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_OS_Object__c.TestField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -808,6 +813,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Test_Object_Jan_28_demo__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Test_Object_Jan_29__c.Test_Field_Checkbox__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1052,6 +1062,9 @@
         <layout>Test_Demo_Object__c-Test Demo Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Jan_Object__c-Test Jan Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_OS_Object__c-Test OS Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1285,6 +1298,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Demo_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Jan_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
