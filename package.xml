@@ -292,6 +292,7 @@
         <members>Test_DL_object__c.Test_Object_June_20__c</members>
         <members>Test_Demo_Object__c.Test_Field__c</members>
         <members>Test_Jan_Object__c.NewField__c</members>
+        <members>Test_Jan_Object__c.Test_Field__c</members>
         <members>Test_OS_Object__c.TestField__c</members>
         <members>Test_Obj_July__c.Sal__c</members>
         <members>Test_Obj_June_20__c.Test_Date__c</members>
@@ -376,6 +377,7 @@
         <members>Test_Object_sep24__c</members>
         <members>Todays_Object__c</members>
         <members>TstObj__c</members>
+        <members>test_jan_30_obj__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -437,6 +439,7 @@
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
         <members>TstObj__c</members>
+        <members>test_jan_30_obj__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -624,6 +627,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>test_jan_30_obj__c-test jan 30 obj Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -730,6 +734,7 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>test_jan_30_obj__c.All</members>
         <name>ListView</name>
     </types>
     <types>
@@ -865,6 +870,7 @@
         <members>SFApex__c.CheckPD</members>
         <members>Test_Change_Oct_3__c.VR_Rule_1</members>
         <members>Test_Custom_Object__c.VR_Rule</members>
+        <members>Test_Jan_Object__c.VR</members>
         <members>Test_Object_Demo__c.VR</members>
         <members>Test_Object_Jan_15__c.Test_VR</members>
         <members>Test_Object_Jan_28_demo__c.VR_Test</members>

@@ -752,6 +752,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Jan_Object__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_OS_Object__c.TestField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1131,6 +1136,9 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>test_jan_30_obj__c-test jan 30 obj Layout</layout>
+    </layoutAssignments>
     <pageAccesses>
         <apexPage>DreamHouseSampleData</apexPage>
         <enabled>false</enabled>
@@ -1362,6 +1370,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_October_9__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>test_jan_30_obj__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Force.com - Free</userLicense>
