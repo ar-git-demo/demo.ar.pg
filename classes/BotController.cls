@@ -1,7 +1,8 @@
 public with sharing class BotController {
-//Comment Changes Dec 9
+//Comment Changes Jan30
     class HandlerMapping {
-     //Test Change DLC
+     //Test Change - Conflict
+     //Static
         public String handlerClassName;
         public Pattern utterancePattern;
 
@@ -11,7 +12,7 @@ public with sharing class BotController {
         }
 
     }
-//Sales
+//Comment Change
     static List<HandlerMapping> handlerMappings;
     
     static {
@@ -50,14 +51,14 @@ public with sharing class BotController {
                     return h.handle(utterance, params, session, fileName, fileContent);
                 }
             }
+            //NL Comment Change
             
             return new BotResponse(new BotMessage('Bot', 'I don\'t know how to answer that'));
             
         } catch (Exception e) {
             System.debug(e);                
             return new BotResponse(new BotMessage('Bot', 'Oops, something went wrong invoking that command'));
-        }
-        
+        }   
     }
- //End Of Line
+ //END OF LINE
 }

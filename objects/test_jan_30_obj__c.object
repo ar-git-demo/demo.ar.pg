@@ -52,42 +52,18 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>NewField__c</fullName>
-        <externalId>false</externalId>
-        <label>NewField</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>Test_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Test Field</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
-    <label>Test Jan Object</label>
+    <label>test jan 30 obj</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Test Jan Object  Name</label>
+        <label>test jan 30 obj Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>tests</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>VR</fullName>
-        <active>true</active>
-        <errorConditionFormula>$Profile.Name = &quot;Admin&quot;</errorConditionFormula>
-        <errorMessage>Error Msg</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>
