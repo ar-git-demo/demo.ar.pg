@@ -19,6 +19,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BCP_test__c.New_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Dep_LaC__c.T_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -98,6 +103,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>BCP_test__c-BCP test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -139,6 +147,10 @@
     <layoutAssignments>
         <layout>test_jan_30_obj__c-test jan 30 obj Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>BCP_test__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Dep_LaC__c</tab>
         <visibility>DefaultOn</visibility>
