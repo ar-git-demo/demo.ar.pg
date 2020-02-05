@@ -3,7 +3,7 @@ public class BotField {
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    //ete
+    //Apex comment
     public BotField(String name, String value) {
         this.name = name;
         this.value = value;

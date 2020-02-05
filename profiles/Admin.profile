@@ -312,6 +312,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BCP_test__c.Salary__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Bot_Command__c.Active__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -855,6 +860,11 @@
         <field>Test_Object_sep24__c.Test_Sept_Obj__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>feb_5_custom_object__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -1143,6 +1153,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>feb_5_custom_object__c-feb 5 custom object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>test_jan_30_obj__c-test jan 30 obj Layout</layout>
@@ -1630,6 +1643,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>feb_5_custom_object__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>test_jan_30_obj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1868,6 +1890,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_October_9__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>feb_5_custom_object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

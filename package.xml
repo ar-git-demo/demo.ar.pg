@@ -193,6 +193,7 @@
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
         <members>BCP_test__c.New_Field__c</members>
+        <members>BCP_test__c.Salary__c</members>
         <members>Bot_Command__c.Active__c</members>
         <members>Bot_Command__c.Apex_Class__c</members>
         <members>Bot_Command__c.Pattern__c</members>
@@ -316,6 +317,7 @@
         <members>Test_Object_sep24__c.Test_Sept_Obj__c</members>
         <members>Todays_Object__c.Test_Field_PG_Demo__c</members>
         <members>Todays_Object__c.YoN__c</members>
+        <members>feb_5_custom_object__c.Test_Field__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -379,6 +381,7 @@
         <members>Test_Object_sep24__c</members>
         <members>Todays_Object__c</members>
         <members>TstObj__c</members>
+        <members>feb_5_custom_object__c</members>
         <members>test_jan_30_obj__c</members>
         <name>CustomObject</name>
     </types>
@@ -442,6 +445,7 @@
         <members>Test_Object__c</members>
         <members>Todays_Object__c</members>
         <members>TstObj__c</members>
+        <members>feb_5_custom_object__c</members>
         <members>test_jan_30_obj__c</members>
         <name>CustomTab</name>
     </types>
@@ -631,6 +635,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>feb_5_custom_object__c-feb 5 custom object Layout</members>
         <members>test_jan_30_obj__c-test jan 30 obj Layout</members>
         <name>Layout</name>
     </types>
@@ -739,6 +744,7 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>feb_5_custom_object__c.All</members>
         <members>test_jan_30_obj__c.All</members>
         <name>ListView</name>
     </types>
@@ -866,6 +872,7 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>BCP_test__c.VRR</members>
         <members>CObject_Demo_Sep_25__c.VR_Rule_1</members>
         <members>ClickTicks__c.VR_Change</members>
         <members>New_Obj_Jan_16__c.Test_Rule</members>

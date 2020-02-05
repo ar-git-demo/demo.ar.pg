@@ -53,41 +53,28 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>New_Field__c</fullName>
+        <fullName>Test_Field__c</fullName>
         <externalId>false</externalId>
-        <label>New Field</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>Salary__c</fullName>
-        <externalId>false</externalId>
-        <label>Salary</label>
+        <label>Test Field</label>
         <precision>18</precision>
         <required>false</required>
         <scale>0</scale>
         <trackTrending>false</trackTrending>
-        <type>Currency</type>
+        <type>Number</type>
+        <unique>false</unique>
     </fields>
-    <label>BCP test</label>
+    <label>feb 5 custom object</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>BCP test Name</label>
+        <label>feb 5 custom object  Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>bcp</pluralLabel>
+    <pluralLabel>fefbs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>VRR</fullName>
-        <active>true</active>
-        <errorConditionFormula>$Profile.Name = &quot;Admin&quot;</errorConditionFormula>
-        <errorMessage>Error</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

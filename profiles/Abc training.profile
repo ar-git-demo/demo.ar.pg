@@ -16,10 +16,19 @@
         <apexClass>BotItem</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>BotMessage</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>BCP_test__c.New_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>BCP_test__c.Salary__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -102,6 +111,11 @@
         <field>Test_Object_Jan_29__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>feb_5_custom_object__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>BCP_test__c-BCP test Layout</layout>
     </layoutAssignments>
@@ -143,6 +157,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_Object_Jan_29__c-Test Object Jan 29 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>feb_5_custom_object__c-feb 5 custom object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>test_jan_30_obj__c-test jan 30 obj Layout</layout>
@@ -201,6 +218,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Jan_29__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>feb_5_custom_object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
