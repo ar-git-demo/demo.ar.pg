@@ -1,5 +1,5 @@
 public virtual class BotMessage {
-//Comment Oct 30 Demo
+//Comment Feb 5 Demo    
 //Test Change
     @AuraEnabled public String author { get;set; }
     @AuraEnabled public String messageText { get;set; }
@@ -10,7 +10,7 @@ public virtual class BotMessage {
 
     public BotMessage() {
     }
-//Change Made Today
+//Change Made
     public BotMessage(String author, String messageText) {
         this.author = author;
         this.messageText = messageText;

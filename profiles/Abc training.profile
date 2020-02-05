@@ -43,6 +43,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Feb_5_Object__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>New_Obj_Jan_16__c.New_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -126,6 +131,9 @@
         <layout>Dep_Obj__c-Dep Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Feb_5_Object__c-Feb 5 Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>New_Obj_Jan_16__c-New Obj Jan 16 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -174,6 +182,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Dep_Obj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Feb_5_Object__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
