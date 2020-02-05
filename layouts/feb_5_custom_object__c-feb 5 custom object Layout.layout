@@ -12,11 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TField_DEmo__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Salary__c</field>
+                <field>Test_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
