@@ -232,6 +232,7 @@
         <members>Dreamhouse_Settings__c.Slack_Property_Webhook_URL__c</members>
         <members>Favorite__c.Property__c</members>
         <members>Favorite__c.User__c</members>
+        <members>Feb_5_Object__c.New_Field_Demo__c</members>
         <members>Feb_5_Object__c.Test_Field__c</members>
         <members>June_18_Demo_C__c.June_18_Demo_P__c</members>
         <members>June_18_Demo_P__c.YesOrNo__c</members>

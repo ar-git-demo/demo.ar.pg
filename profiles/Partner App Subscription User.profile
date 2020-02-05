@@ -457,6 +457,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Feb_5_Object__c.New_Field_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Feb_5_Object__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
