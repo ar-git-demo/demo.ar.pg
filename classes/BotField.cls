@@ -1,9 +1,9 @@
 public class BotField {
-//Change Made
+//Change Made today
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    //Apex comment
+    //Apex 
     public BotField(String name, String value) {
         this.name = name;
         this.value = value;
