@@ -1,5 +1,5 @@
 public class BotField {
-//Change Made today
+//Change Made today - Feb 12
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
