@@ -33,6 +33,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DAB_Test__c.TCheckbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Dep_LaC__c.T_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -135,6 +140,9 @@
         <layout>BCP_test__c-BCP test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DAB_Test__c-DAB Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -165,6 +173,9 @@
         <layout>Test_Object_Demo_Feb_10__c-Test Object Demo Feb 10 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Feb_14__c-Test Object Feb 14 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Jan17__c-Test Object Jan 17 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -187,6 +198,10 @@
     </layoutAssignments>
     <tabVisibilities>
         <tab>BCP_test__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>DAB_Test__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -227,6 +242,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Demo_Feb_10__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Feb_14__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

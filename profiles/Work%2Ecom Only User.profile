@@ -432,6 +432,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DAB_Test__c.TCheckbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Demo_PG_Obj__c.Test_Demo_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -941,6 +946,9 @@
         <layout>Contract-Contract Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DAB_Test__c-DAB Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1133,6 +1141,9 @@
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Feb_14__c-Test Object Feb 14 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Jan17__c-Test Object Jan 17 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1228,6 +1239,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Command_Center</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>DAB_Test__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -1396,6 +1411,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Demo__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Feb_14__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
