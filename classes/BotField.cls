@@ -1,14 +1,14 @@
 public class BotField {
-//SF Apex Change Made now
+//Change Made today - Feb 14
     @AuraEnabled public String name { get;set; }
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
-    
+    //Valentine's change
     public BotField(String name, String value) {
         this.name = name;
         this.value = value;
     }
-    //Comment Change
+    //Change
     public BotField(String name, String value, string linkURL) {
         this.name = name;
         this.value = value;

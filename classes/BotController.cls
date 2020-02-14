@@ -1,8 +1,8 @@
 public with sharing class BotController {
 //Comment Changes Jan30
     class HandlerMapping {
-     //Test Change - Conflict
-     //Static
+     //Test Change 
+     //Static Class
         public String handlerClassName;
         public Pattern utterancePattern;
 

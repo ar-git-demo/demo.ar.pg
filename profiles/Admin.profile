@@ -422,6 +422,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DAB_Test__c.TCheckbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Demo_PG_Obj__c.Test_Demo_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -913,6 +918,9 @@
         <layout>Contract-Contract Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DAB_Test__c-DAB Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1102,6 +1110,9 @@
         <layout>Test_Object_Demo__c-Test Object Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test_Object_Feb_14__c-Test Object Feb 14 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test_Object_Jan17__c-Test Object Jan 17 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1199,6 +1210,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>ClickTicks__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>DAB_Test__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -1558,6 +1578,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>Test_Object_Feb_14__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Test_Object_Jan17__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -1676,6 +1705,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Command_Center</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>DAB_Test__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -1840,6 +1873,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Test_Object_Demo__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Test_Object_Feb_14__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
