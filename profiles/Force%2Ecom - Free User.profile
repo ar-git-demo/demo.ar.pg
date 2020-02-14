@@ -427,6 +427,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Demo_Object_Feb14__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Demo_PG_Obj__c.Test_Demo_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -924,6 +929,9 @@
         <layout>DandBCompany-D%26B Company Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Demo_Object_Feb14__c-Demo Object Feb14 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Demo_PG_Obj__c-Demo PG Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1205,6 +1213,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>DAB_Test__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Demo_Object_Feb14__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
