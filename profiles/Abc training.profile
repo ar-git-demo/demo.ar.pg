@@ -38,6 +38,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Demo_Object_Feb14__c.Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Dep_LaC__c.T_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -143,6 +148,9 @@
         <layout>DAB_Test__c-DAB Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Demo_Object_Feb14__c-Demo Object Feb14 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Dep_LaC__c-Dep LaC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -202,6 +210,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>DAB_Test__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Demo_Object_Feb14__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

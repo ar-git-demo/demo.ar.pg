@@ -1,8 +1,8 @@
 public with sharing class BotController {
-//Comment Changes Jan31
+//Comment Changes Feb 14
     class HandlerMapping {
-     //Test Change 
-     //Static Class
+     //Change 
+     //Static
         public String handlerClassName;
         public Pattern utterancePattern;
 
